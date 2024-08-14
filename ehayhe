@@ -1,1 +1,3 @@
-print("up for 20 mins")
+local player = game.Players.LocalPlayer
+
+player:Kick("you were banned from this experience by the creator. Here's a message from the creater:                     you created or used an account to avoid an enforcement action taken against another account by the creator of this experience (Error Code:600)")
